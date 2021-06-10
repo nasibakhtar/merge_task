@@ -1,4 +1,0 @@
-this is master
-this is pull
-this is fetch
-new feature
